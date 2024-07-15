@@ -1,11 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.santalucia.apc.tst",
-      "sha256_cert_fingerprints":
-        ["BA:9C:BF:87:6B:B8:BD:77:0A:BF:E5:24:BD:68:E5:D2:89:1C:CE:F5:F7:EF:D3:87:B8:F5:36:1C:97:D7:77:86"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.santalucia.apc.tst",
+    "sha256_cert_fingerprints":
+    ["0A:E3:20:BB:B5:97:C3:00:36:92:53:16:B0:98:D6:24:44:7E:3C:C9:60:01:A8:DA:93:33:5F:4A:3C:C5:B1:2D"]
   }
-]
+}]
